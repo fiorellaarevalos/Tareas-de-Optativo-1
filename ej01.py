@@ -13,4 +13,3 @@ if __name__ == "__main__":
     
     print(c1)
     print(c2)
-```[cite: 3]
